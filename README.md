@@ -139,3 +139,21 @@ Software Engineer | Backend Developer
 
 GitHub:  
 https://github.com/Mohammedalqhoom
+
+## 📸 Screenshots
+
+### Login
+
+![Login](Screenshots/login.png)
+
+### Main Menu
+
+![Main Menu](Screenshots/main-menu.png)
+
+### Withdrawal
+
+![Withdrawal](Screenshots/withdrawal.png)
+
+### Balance
+
+![Balance](Screenshots/balance.png)
